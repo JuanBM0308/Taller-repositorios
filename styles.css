@@ -124,6 +124,11 @@ section {
     padding: 10px;
 }
 
+.card .linkMega {
+    color: red;
+    text-decoration: none;
+}
+
 
 
 /*Pie de pagina y redes sociales*/
@@ -241,4 +246,19 @@ footer {
         flex-direction: column;
     }
 
+}
+
+
+
+
+
+
+
+
+
+
+#linkCeruledge {
+    text-decoration: none;
+    color: #330033;
+    border-bottom: #ee5522 3px solid;
 }
