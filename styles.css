@@ -30,47 +30,6 @@ header {
     line-height: 3;
 }
 
-nav {
-    width: 75%;
-    display: flex;
-    align-items: center;
-}
-nav ul {
-    width: 100%;
-    display: flex;
-    justify-content: space-evenly;
-    list-style: none;
-}
-nav ul li a{
-    text-decoration: none;
-    font-size: x-large;
-    font-family: 'Oswald', sans-serif;
-    color: black;
-    font-weight: 700;
-}
-nav ul li a:hover{
-    border-bottom: 3px solid #3c3cb6;
-}
-
-/*Navegacion responsiva*/
-#nav_responsive {
-    display: none;
-}
-.boton_responsive {
-    margin-right: 15px;
-    cursor: pointer;
-    position: absolute;
-}
-.boton_responsive .linea {
-    background: #3c3cb6;
-    margin-bottom: 5px;
-    border-radius: 2px;
-    width: 40px;
-    height: 6px;
-    opacity: 1;
-}
-
-
 
 
 /*Tarjetas de informacion*/
