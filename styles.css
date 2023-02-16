@@ -124,6 +124,11 @@ section {
     padding: 10px;
 }
 
+.card .linkMega {
+    color: red;
+    text-decoration: none;
+}
+
 
 
 /*Pie de pagina y redes sociales*/
