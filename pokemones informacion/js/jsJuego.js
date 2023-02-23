@@ -95,39 +95,19 @@ function finalizar() {
     
     if (puntos_jugador > puntos_maquina && puntos_jugador > empates) { //Gana jugador
 
-        var nuevo = document.createElement("div");
-                    
-        nuevo.id = "resultado";
-
-        document.getElementById("solucion").appendChild(nuevo);
-        document.getElementById("resultado").innerHTML = "GANA JUGADOR";
+        document.getElementById("solucion").innerHTML = "GANA JUGADOR";
 
     } else if (puntos_maquina > puntos_jugador && puntos_maquina > empates) { //Gana maquina
         
-        var nuevo = document.createElement("div");
-                    
-        nuevo.id = "resultado";
-
-        document.getElementById("final").appendChild(nuevo);
-        document.getElementById("resultado").innerHTML = "GANA MAQUINA";
+        document.getElementById("solucion").innerHTML = "GANA MAQUINA";
 
     } else if (empates > puntos_jugador && empates > puntos_maquina) { //EMPATE
         
-        var nuevo = document.createElement("div");
-                    
-        nuevo.id = "resultado";
-
-        document.getElementById("final").appendChild(nuevo);
-        document.getElementById("resultado").innerHTML = "EMPATE";
+        document.getElementById("solucion").innerHTML = "EMPATE";
 
     } else {
 
-        var nuevo = document.createElement("div");
-                    
-        nuevo.id = "resultado";
-
-        document.getElementById("final").appendChild(nuevo);
-        document.getElementById("resultado").innerHTML = "EMPATE";
+        document.getElementById("solucion").innerHTML = "EMPATE";
 
     }
 
@@ -139,7 +119,7 @@ function finalizar() {
                     
             nuevo2.id = "resultado" + i;
 
-            document.getElementById("final").appendChild(nuevo2);
+            document.getElementById("solucion").appendChild(nuevo2);
             document.getElementById("resultado"+i).innerHTML = "PUNTOS JUGADOR: "+puntos_jugador;
         }
         if (i == 1) {
@@ -147,7 +127,7 @@ function finalizar() {
                     
             nuevo2.id = "resultado" + i;
 
-            document.getElementById("final").appendChild(nuevo2);
+            document.getElementById("solucion").appendChild(nuevo2);
             document.getElementById("resultado"+i).innerHTML = "PUNTOS MAQUINA: "+puntos_maquina;
         }
         if (i == 2) {
@@ -155,7 +135,7 @@ function finalizar() {
                     
             nuevo2.id = "resultado" + i;
 
-            document.getElementById("final").appendChild(nuevo2);
+            document.getElementById("solucion").appendChild(nuevo2);
             document.getElementById("resultado"+i).innerHTML = "EMPATES: "+empates;
         }
     }
