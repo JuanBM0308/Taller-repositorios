@@ -32,7 +32,6 @@ header {
 
 
 
-/*Tarjetas de informacion*/
 .formTrafico {
     display: flex;
     justify-content: center;
@@ -90,6 +89,7 @@ header {
 
 li{
     list-style: none;
+
 }
 
 form{
@@ -97,13 +97,28 @@ form{
     display: flex;
     justify-content: center;
     align-content: center;
+    flex-direction: column;
 }
 
-.DatosUsuario {
-
+.DatosPokemon{
+    margin: auto;
+    padding: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
 }
 
-/*Pie de pagina y redes sociales*/
+.DatosUsuario{
+    margin: auto;
+    padding: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+    
 footer {
     display: flex;
     flex-wrap: wrap;
@@ -115,7 +130,6 @@ footer {
 .footer_seccion {
     width: 48%;
 }
-
 
 .footer_seccion ul {
     list-style: none;
