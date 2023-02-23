@@ -18,7 +18,7 @@
         <p class="h2">Rayquaza</p>
         <div class="input-group mb-3">
             <label class="input-group-text" for="inputGroupSelect01">¿Genero del Pokemon?</label>
-            <select class="form-select genero" id="inputGroupSelect01" onclick="genro()">
+            <select class="form-select genero" id="inputGroupSelect01" onclick="genero()">
               <option value="1">Hombre</option>
               <option value="2">Mujer</option>
               <option value="3">Ninguno</option>
@@ -26,30 +26,30 @@
         </div>
         <div class="input-group flex-nowrap">
             <span class="input-group-text" id="addon-wrapping">Nombre Pokedex</span>
-            <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="addon-wrapping">
+            <input onclick="nombre()" type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="addon-wrapping">
         </div>
         <div id="contenedor_rareza">
             <p class="h6" id="h6">¿Cuales son sus elementos?</p>
             <div class="form-check">
-                <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                <input onclick="elemento()" class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
                 <label class="form-check-label" for="flexRadioDefault1">
                   Dragon - Volador
                 </label>
             </div>
             <div class="form-check">
-                <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
+                <input onclick="elemento()" class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
                 <label class="form-check-label" for="flexRadioDefault2">
                   Dragon - Fuego
                 </label>
             </div>
             <div class="form-check">
-                <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
+                <input onclick="elemento()" class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
                 <label class="form-check-label" for="flexRadioDefault2">
                   Fuego - Hielo
                 </label>
             </div>
             <div class="form-check">
-                <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
+                <input onclick="elemento()" class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
                 <label class="form-check-label" for="flexRadioDefault2">
                   Espacio - Hada
                 </label>
@@ -57,10 +57,10 @@
         </div>
         <div class="mb-3">
             <p class="h6" id="h6b">¿Rareza del Pokemon?</p>
-            <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Rareza Example">
+            <input onclick="rareza()" type="text" class="form-control" id="formGroupExampleInput" placeholder="Rareza Example">
         </div>
-        <div id="progreso" class="progress" role="progressbar" aria-label="Animated striped example" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
-            <div class="progress-bar progress-bar-striped progress-bar-animated" style="width: 0%"></div>
+        <div class="progress" role="progressbar" aria-label="Animated striped example" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
+            <div id="progreso" class="progress-bar progress-bar-striped progress-bar-animated" style="width: 0%"></div>
         </div>
         <div id="contenedor_envio">
             <button type="button" class="btn btn-warning" id="boton_envio" onclick="final()">Enviar</button>
