@@ -1,0 +1,243 @@
+[33mcommit a9839ab5580c1dd9fb11eac6dd3d55cd04d33df5[m[33m ([m[1;36mHEAD -> [m[1;32mrama-raul[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: e710185 ab73f96
+Author: unknown <SENA@MOSAPRCBAFSD040.FormacionSena.RED>
+Date:   Thu Feb 16 11:53:47 2023 -0500
+
+    Merge branch 'main' of https://github.com/JuanBM0308/Taller-repositorios
+
+[33mcommit e71018532cc280aab2046b475a72ecb2fa8f5780[m
+Author: unknown <SENA@MOSAPRCBAFSD040.FormacionSena.RED>
+Date:   Thu Feb 16 11:53:22 2023 -0500
+
+    Quitar barra de navegacion index
+
+[33mcommit ab73f968e1b3858cc9c5c4de6b2de7b94db900f4[m
+Merge: 3600e1e d4cc8fa
+Author: SENA <casanchez4253@misena.edu.co>
+Date:   Thu Feb 16 11:51:35 2023 -0500
+
+    Merge branch 'main' of https://github.com/JuanBM0308/Taller-repositorios
+
+[33mcommit 3600e1e4a1c84521362cd7d2dfaa5a0612268e2d[m
+Author: SENA <casanchez4253@misena.edu.co>
+Date:   Thu Feb 16 11:51:28 2023 -0500
+
+    Subir info
+
+[33mcommit d4cc8fa7bdb2cf64109efd58d82f3f5171929213[m
+Merge: 301a6b9 1682bc1
+Author: Juanjo-M <juanjm.070301@gmail.com>
+Date:   Thu Feb 16 11:50:07 2023 -0500
+
+    Merge branch 'main' of https://github.com/JuanBM0308/Taller-repositorios
+
+[33mcommit 5f9a2c700fd981a43fc77d128fdb6836d9d5829a[m
+Merge: 0e2a8f3 1682bc1
+Author: SENA <casanchez4253@misena.edu.co>
+Date:   Thu Feb 16 11:50:03 2023 -0500
+
+    Merge branch 'main' of https://github.com/JuanBM0308/Taller-repositorios
+
+[33mcommit 1682bc106aee22f035ee11f4a40f5d44e601bc56[m
+Merge: ea01370 90aba96
+Author: unknown <SENA@MOSAPRCBAFSD111.FormacionSena.RED>
+Date:   Thu Feb 16 11:49:35 2023 -0500
+
+    Merge branch 'main' of https://github.com/JuanBM0308/Taller-repositorios
+
+[33mcommit 301a6b9f012e191646ab26f0d96eb3c62f9c5af2[m
+Merge: de62508 90aba96
+Author: Juanjo-M <juanjm.070301@gmail.com>
+Date:   Thu Feb 16 11:49:34 2023 -0500
+
+    Merge branch 'main' of https://github.com/JuanBM0308/Taller-repositorios
+
+[33mcommit ea01370751dc1daf3bc072f27ef3d3fe96fbffe0[m
+Author: unknown <SENA@MOSAPRCBAFSD111.FormacionSena.RED>
+Date:   Thu Feb 16 11:49:29 2023 -0500
+
+    Se agrego el blank
+
+[33mcommit de62508ed05fa4d44f2bd35a7a7a73bd22968a33[m
+Author: Juanjo-M <juanjm.070301@gmail.com>
+Date:   Thu Feb 16 11:49:26 2023 -0500
+
+    Agregar informacion/archivos Pokemon Charmander
+
+[33mcommit 0e2a8f3f518a151882238b26bbf6dd786d60c739[m
+Merge: e803f7c 90aba96
+Author: SENA <casanchez4253@misena.edu.co>
+Date:   Thu Feb 16 11:48:53 2023 -0500
+
+    Merge branch 'main' of https://github.com/JuanBM0308/Taller-repositorios
+
+[33mcommit e803f7c34b08fbec78b371475605c3d6c2e7f53e[m
+Author: SENA <casanchez4253@misena.edu.co>
+Date:   Thu Feb 16 11:48:47 2023 -0500
+
+    más info rayquaza
+
+[33mcommit 90aba96b26fadf324f06384ade612e341a4efd4f[m
+Author: unknown <SENA@MOSAPRCBAFSD040.FormacionSena.RED>
+Date:   Thu Feb 16 11:48:42 2023 -0500
+
+    Link nueva pestaña
+
+[33mcommit 634377f938ac6888ed16277c067b37791f17b7a9[m
+Merge: c752bee cfabb1e
+Author: unknown <SENA@MOSAPRCBAFSD040.FormacionSena.RED>
+Date:   Thu Feb 16 11:45:39 2023 -0500
+
+    Merge branch 'main' of https://github.com/JuanBM0308/Taller-repositorios
+
+[33mcommit c752bee984558de12f90e4ae57c7a3a6306f774b[m
+Author: unknown <SENA@MOSAPRCBAFSD040.FormacionSena.RED>
+Date:   Thu Feb 16 11:45:12 2023 -0500
+
+    Link index -> ceruledge
+
+[33mcommit 207f197cb57c2e3776f6651687c12be2392d7fff[m
+Merge: 994a16c cfabb1e
+Author: SENA <casanchez4253@misena.edu.co>
+Date:   Thu Feb 16 11:44:51 2023 -0500
+
+    Merge branch 'main' of https://github.com/JuanBM0308/Taller-repositorios
+
+[33mcommit 994a16c73245f070bdf77ba2bd9da515703a88ae[m
+Author: SENA <casanchez4253@misena.edu.co>
+Date:   Thu Feb 16 11:44:36 2023 -0500
+
+    a
+
+[33mcommit cfabb1ee59d9f40faa74d50ae552319861a27bc9[m
+Merge: 45232f0 a58f260
+Author: unknown <SENA@MOSAPRCBAFSD111.FormacionSena.RED>
+Date:   Thu Feb 16 11:42:38 2023 -0500
+
+    Merge branch 'main' of https://github.com/JuanBM0308/Taller-repositorios
+
+[33mcommit 45232f02f6f599960d875a4814de92743d7778db[m
+Author: unknown <SENA@MOSAPRCBAFSD111.FormacionSena.RED>
+Date:   Thu Feb 16 11:42:30 2023 -0500
+
+    Cambio de imagen a PNG
+
+[33mcommit a58f260662282c25419b4cfa26c4cc0cc8ab3347[m
+Merge: fda050e bb432cd
+Author: unknown <SENA@MOSAPRCBAFSD155.FormacionSena.RED>
+Date:   Thu Feb 16 11:40:33 2023 -0500
+
+    Merge branch 'main' of https://github.com/JuanBM0308/Taller-repositorios
+
+[33mcommit fda050ec41a8c35ef4b9d502ee1e219e341cc865[m
+Author: unknown <SENA@MOSAPRCBAFSD155.FormacionSena.RED>
+Date:   Thu Feb 16 11:40:24 2023 -0500
+
+    renombrar arturo y mover a pokemones
+
+[33mcommit 1df2c58724e72d708608c15198800ee58c02741c[m
+Merge: 213a12f bb432cd
+Author: SENA <casanchez4253@misena.edu.co>
+Date:   Thu Feb 16 11:38:04 2023 -0500
+
+    Merge branch 'main' of https://github.com/JuanBM0308/Taller-repositorios
+
+[33mcommit bb432cd3929ec9928583e6a20ed1375d57f3e463[m
+Merge: dc69dc5 968c16c
+Author: unknown <SENA@MOSAPRCBAFSD111.FormacionSena.RED>
+Date:   Thu Feb 16 11:37:52 2023 -0500
+
+    Merge branch 'main' of https://github.com/JuanBM0308/Taller-repositorios
+
+[33mcommit dc69dc5a16d4b67dde9b53876b7d60f380047de5[m
+Author: unknown <SENA@MOSAPRCBAFSD111.FormacionSena.RED>
+Date:   Thu Feb 16 11:37:45 2023 -0500
+
+    Link de Mega Abomasnow y cambio estilo texto
+
+[33mcommit 213a12f7a18a53657b0c56af2466d2ab281b6f09[m
+Merge: 6cb92b6 968c16c
+Author: SENA <casanchez4253@misena.edu.co>
+Date:   Thu Feb 16 11:36:13 2023 -0500
+
+    Merge branch 'main' of https://github.com/JuanBM0308/Taller-repositorios
+
+[33mcommit 6cb92b622db2b6e632729cf1f649457f748ebc7d[m
+Merge: 267ee64 4cfd622
+Author: SENA <casanchez4253@misena.edu.co>
+Date:   Thu Feb 16 11:35:18 2023 -0500
+
+    Merge branch 'main' of https://github.com/JuanBM0308/Taller-repositorios
+
+[33mcommit 267ee64314decc3953088387d9300ba1daa76bc4[m
+Author: SENA <casanchez4253@misena.edu.co>
+Date:   Thu Feb 16 11:35:09 2023 -0500
+
+    Info mega Rayquaza
+
+[33mcommit 968c16ce3893f45effea6377a7270f0994ec1b9f[m
+Merge: cb0e962 4cfd622
+Author: unknown <SENA@MOSAPRCBAFSD040.FormacionSena.RED>
+Date:   Thu Feb 16 11:34:40 2023 -0500
+
+    Merge branch 'main' of https://github.com/JuanBM0308/Taller-repositorios
+
+[33mcommit cb0e9625136d8cc412c6c1304147d44d558714e9[m
+Author: unknown <SENA@MOSAPRCBAFSD040.FormacionSena.RED>
+Date:   Thu Feb 16 11:33:44 2023 -0500
+
+    Organizacion carpetas
+
+[33mcommit 4cfd622b5b757a967cbd084f2c49107eebb401fe[m
+Merge: da6092e 2fd68a7
+Author: unknown <SENA@MOSAPRCBAFSD155.FormacionSena.RED>
+Date:   Thu Feb 16 11:30:24 2023 -0500
+
+    Merge branch 'main' of https://github.com/JuanBM0308/Taller-repositorios
+
+[33mcommit 2fd68a71a7955984da6b8b0a4a61e4f4800b9765[m
+Author: unknown <SENA@MOSAPRCBAFSD111.FormacionSena.RED>
+Date:   Thu Feb 16 11:29:33 2023 -0500
+
+    Imagen de Juan y mas info de Abomasnow
+
+[33mcommit da6092e14292b890c2f2ff8543a346a25d1586b4[m
+Author: unknown <SENA@MOSAPRCBAFSD155.FormacionSena.RED>
+Date:   Thu Feb 16 11:29:09 2023 -0500
+
+    creacion archivo Arturo.html y modificacion index
+
+[33mcommit 65aa82c30a528daad125655b05a9c16d0462650d[m
+Merge: e6baa57 d2a456d
+Author: unknown <SENA@MOSAPRCBAFSD111.FormacionSena.RED>
+Date:   Thu Feb 16 11:25:55 2023 -0500
+
+    Merge branch 'main' of https://github.com/JuanBM0308/Taller-repositorios
+
+[33mcommit e6baa57aa4eaa01714eda68088b96aa8f3e4cfb5[m
+Author: unknown <SENA@MOSAPRCBAFSD111.FormacionSena.RED>
+Date:   Thu Feb 16 11:25:21 2023 -0500
+
+    Info sobre Abomasnow
+
+[33mcommit d2a456d548b5ae45ca8911fdd8ebb650bb3a2368[m
+Merge: f1751dc ead00c7
+Author: SENA <casanchez4253@misena.edu.co>
+Date:   Thu Feb 16 11:25:11 2023 -0500
+
+    Merge branch 'main' of https://github.com/JuanBM0308/Taller-repositorios
+
+[33mcommit f1751dc2e57e09e3625506f5f4d43325b1da3665[m
+Author: SENA <casanchez4253@misena.edu.co>
+Date:   Thu Feb 16 11:24:54 2023 -0500
+
+    imagenes redes sociales arregladas
+
+[33mcommit ead00c7fae31fbe1b61f69d79c2c719f06f2d840[m
+Merge: 58b6d54 c58882b
+Author: unknown <SENA@MOSAPRCBAFSD155.FormacionSena.RED>
+Date:   Thu Feb 16 11:22:22 2023 -0500
+
+    Merge branch 'main' of https://github.com/JuanBM0308/Taller-repositorios
+
+[33mcommit 58b6d546890b1c3bc10538469914a

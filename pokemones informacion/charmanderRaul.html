@@ -4,9 +4,90 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Info Charmander</title>
+
+    <link rel="stylesheet" href="css/stylesCharmander.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap" rel="stylesheet">
+
+
+    <title>Formulario Charmander</title>
 </head>
 <body>
-    
+    <header>
+        <div id="logo">
+            <h1>Pokemon</h1>
+        </div>
+        <div id="logo">
+            <h1>Formulario sobre Charmander</h1>
+        </div>
+    </header>
+    <form id="formulariocharmander">
+        <ul id="preguntas">
+            <div id="tituloform">
+                <h1>Formulario</h1>
+            </div>
+            <li>
+                <label for="tipo">¿Que tipo de elemento es?</label>
+                <select id="tipos" name="tiposelementos">
+                    <option selected>--Selecionar--</option>
+                    <option>Agua</option>
+                    <option>Fuego</option>
+                    <option>Aire</option>
+                    <option>Tierra</option>
+                    <option>Fantasmal</option>
+                </select>
+            </li>
+
+            <li>
+                <label for="nacimiento">¿Como nace un Charmander?</label>
+                <input type="text" placeholder="Coloque su respuesta">
+            </li>
+
+            <li>
+                <label for="vive">¿Donde vive un Charmander?</label>
+                <input type="text" placeholder="Coloque su respuesta">
+            </li>
+
+            <li>
+                <label for="caracteristicas">Mencione algunas caracteristicas: </label>
+                <input type="text" placeholder="Coloque su respuesta">
+            </li>
+
+            <li id="habilidades">
+                <label for="movimiento">Seleccione los movimientos de Charmander</label>
+                <div>
+                    <input type="checkbox" id="ascuas" name="ascuas">
+                    <label for="ascuas">Ascuas</label>
+                </div>
+                <div>
+                    <input type="checkbox" id="latigo" name="latigo">
+                    <label for="latigo">Latigo</label>
+                </div>
+                <div>
+                    <input type="checkbox" id="furiadragon" name="furiadragon">
+                    <label for="furiadragon">Furia Dragon</label>
+                </div>
+                <div>
+                    <input type="checkbox" id="fisura" name="fisura">
+                    <label for="fisura">Fisura</label>
+                </div>
+            </li>
+
+            <li>
+                <label for="evolucion1">¿Nivel necesario para evolucionar a un Charmeleon?</label>
+                <input type="number" placeholder="Coloque su respuesta" min="1">
+            </li>
+
+            <li>
+                <label for="evolucion2">¿Nivel necesario para evolucionar a un Charizard?</label>
+                <input type="number" placeholder="Coloque su respuesta" min="1">
+            </li>
+            
+            <input id="btnenviar" type="button" onclick="" value="Enviar">
+        </ul>
+
+    </form>
 </body>
 </html>
