@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="formulario.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+
+    <div class="formulario">
+        <form action="#">
+            <h2 class="Titulo">Califica a Abomasnow</h2>
+
+            <div class="contenido">
+                <label for="pregunta1">¿Te gusta este tipo de Pokemon?</label>
+                <select name="opcion" id="#" required>
+                    <option value="">Si</option>
+                    <option value="">No</option>
+                    <option value="">No me gustan</option>
+                </select>
+            </div>
+    
+            <div class="contenido">
+                <label for="pregunta2">¿Que calificacion le das a Abomasnow?</label>
+                <select name="opcion" id="#" required>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+            </div>
+
+            <div class="contenido">
+                <label for="pregunta3">¿Como se llama la siguiente evolución?</label>
+                <input type="text" placeholder="?????" required>
+            </div>
+
+            <div class="contenido">
+                <label for="pregunta4">¿Que te gusta de este Pokemon?</label>
+                <input type="text" placeholder="?????" required>
+            </div>
+
+            <div class="contenido">
+                <label for="pregunta1">¿Lo habias visto antes?</label>
+                <select name="opcion" id="#" required>
+                    <option value="1">Si</option>
+                    <option value="2">No</option>
+                    <option value="3">No lo conocia</option>
+                </select>
+            </div>
+
+            <div class="contenido">
+                <label for="pregunta1">¿Que tipo de pokemon es?</label>
+                <p class="lista">
+                    <input type="radio" name="Fuego" value="" required>Fuego
+                    <input type="radio" name="Hielo" value="" required>Hielo
+                    <input type="radio" name="Electro" value="" required>Electrico
+                    <input type="radio" name="Planta" value="" required>Planta
+                </p>
+            </div>
+
+            <div class="boton">
+                <button type="button" value="Calificar" name="Registrar" id="envio" onclick="preguntas()">Calificar</button>
+            </div>
+
+        </form>
+        <div id="resultado" class="caja">...</div>
+    </div>
+
+</body>
+</html>
