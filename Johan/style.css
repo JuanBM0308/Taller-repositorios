@@ -1,0 +1,102 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://img.freepik.com/fotos-premium/copo-nieve-cristal-sobre-fondo-blanco-nieve-bokeh_242270-411.jpg?w=2000);
+}
+
+.formulario {
+    background-color: #55A6D9;
+    width: 300px;
+    height: 770px;
+    display: flex;
+    align-items: center;
+    border-radius: 7px;
+    margin-top: 5em;
+}
+
+.Titulo{
+    margin: 1em 2em 1em 2em;
+    text-align: center;
+    color: #fffdfd;
+}
+
+.contenido {
+    margin: 1em 1em 1em 2em;
+    display: flex;
+    flex-wrap: wrap
+}
+
+label {
+    margin-bottom: 1em;
+    color: #262626;
+}
+
+input {
+    width: 220px;
+    height: 30px;
+    border-radius: 4px;
+
+}
+
+input[type=button] {
+    width: 140px;
+    height: 51px;
+    color: rgb(52, 52, 52);
+    font-weight: bold;
+    font-size: 16px;
+    border: #A0DBF2 solid;
+    margin: 24px;
+    cursor: pointer;
+    border-radius: 4px;
+    background-color: #A0DBF2;
+    display: flex;
+    justify-content: center;
+}
+
+input[type=button]:hover {
+	color: #f1f1f2;
+	background-color: #A0DBF2;
+    border: #A0DBF2 solid;
+    cursor: pointer;
+    transition: .4s all;
+    transform: scale(1.1);
+}
+
+input[placeholder] {
+	padding-left: 12px;
+	outline-color: #00509d;
+	border: 1px solid #6c757d;
+    font-size: 16px;
+    background-color: #f4f6ff;
+}
+
+input[type=radio] {
+    width: 102px;
+    height: 20px;
+
+}
+
+select {
+	padding: 5px;
+	outline-color: #00509d;
+	border: 1px solid #6c757d;
+}
+
+.lista {
+    margin-bottom: 10px;
+    color: #262626;
+    padding-left: 10px;
+}
+
+.boton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

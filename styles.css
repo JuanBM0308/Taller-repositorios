@@ -148,7 +148,6 @@ footer {
 }
 .footer_seccion div img {
     width: 100%;
-    max-width: 85px;
 }
 
 
@@ -205,19 +204,4 @@ footer {
         flex-direction: column;
     }
 
-}
-
-
-
-
-
-
-
-
-
-
-#linkCeruledge {
-    text-decoration: none;
-    color: #330033;
-    border-bottom: #ee5522 3px solid;
 }
